@@ -1,16 +1,29 @@
-### Hi there 👋
+ 
+## Olá Devs! Eu sou o Tiago!👋
+## 🚀 Sobre mim
 
-<!--
-**Tiago-Rodrigues-Souza/Tiago-Rodrigues-Souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desde que comecei minha jornada na programação tenho postados aqui alguns mini-projetos que tem sido fundamentais para meu aprendizado e servido como protótipos para minha experiência!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Habilidades
+- Javascript, HTML, CSS
+- TailwindCSS, Bootstrap 
+- React
+- MySQl
+- Figma
+
+
+## Coisas sobre mim: 
+👩‍💻 Trabalho atualmente em projetos própios 
+
+🧠 Estou aprendendo React
+
+👯‍♀️ Procuro colaborar em projetos que mudem a vida das pessoas
+
+🤔 Procuro ajuda com aprendizado em React
+
+
+
+
+
+
